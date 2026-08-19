@@ -27,12 +27,12 @@
     <summary align="center"><h2> Other languages and Tools </h2></summary>
 <div align="center">
     <p></p> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="TypeScript" height="42px" src="/assets/icons/typescript.svg" /></a>&nbsp;&nbsp;
     <a href="https://www.iso.org/standard/82075.html" target="_blank"> <img alt="C" height="42px" src="/assets/icons/c.svg" /></a>&nbsp;&nbsp;
     <a href="https://isocpp.org/" target="_blank"> <img alt="C++" height="42px" src="/assets/icons/c-plus-plus.svg" /></a>&nbsp;&nbsp;
     <a href="https://www.w3.org/html/" target="_blank"> <img alt="HTML5" height="42px" src="/assets/icons/html5.svg" /></a>&nbsp;&nbsp;
     <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img alt="CSS3" height="42px" src="/assets/icons/css3.svg" /></a>&nbsp;&nbsp;
     <a href="https://tailwindcss.com/" target="_blank"> <img alt="Tailwind CSS" height="42px" src="/assets/icons/tailwindcss.svg" /></a>&nbsp;&nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="TypeScript" height="42px" src="/assets/icons/typescript.svg" /></a>&nbsp;&nbsp;
     <a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" height="42px" src="/assets/icons/mongodb.svg" /></a>&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" height="42px" src="/assets/icons/mysql.svg" /></a>&nbsp;&nbsp;
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img alt="Bash" height="42px" src="/assets/icons/bash.svg" /></a>&nbsp;&nbsp;
@@ -43,6 +43,100 @@
     <a href="https://www.vim.org/" target="_blank"> <img alt="Vim" height="42px" src="/assets/icons/vim.svg" /></a>&nbsp;&nbsp;
     <a href="https://code.visualstudio.com/" target="_blank"> <img alt="Visual Studio Code" height="42px" src="/assets/icons/vscode.svg" /></a>&nbsp;&nbsp;
 
+</div>
+</details>
+
+<details open>
+    <summary align="center"><h2> Favorite languages and Tools </h2></summary>
+<div align="center">
+    <table>
+        <tr>
+            <!-- Item 1 -->
+            <td align="center">
+                <a href="https://developer.hashicorp.com/terraform" target="_blank">
+                    <img alt="Terraform" height="42px" src="/assets/icons/terraform.svg" /><br />
+                    Terraform
+                </a>
+            </td>
+            <!-- Item 2 -->
+            <td align="center">
+                <a href="https://aws.amazon.com/" target="_blank">
+                    <img alt="AWS" height="42px" src="/assets/icons/aws.svg" /><br />
+                    AWS
+                </a>
+            </td>
+            <!-- Item 3 -->
+            <td align="center">
+                <a href="https://www.java.com/" target="_blank">
+                    <img alt="Java" height="42px" src="/assets/icons/java.svg" /><br />
+                    Java
+                </a>
+            </td>
+            <!-- Item 4 -->
+            <td align="center">
+                <a href="https://spring.io/projects/spring-boot/" target="_blank">
+                    <img alt="Spring" height="42px" src="/assets/icons/spring.svg" /><br />
+                    Spring Boot
+                </a>
+            </td>
+            <!-- Item 1 -->
+            <td align="center">
+                <a href="https://developer.hashicorp.com/terraform" target="_blank">
+                    <img alt="Terraform" height="42px" src="/assets/icons/terraform.svg" /><br />
+                    Terraform
+                </a>
+            </td>
+            <!-- Item 2 -->
+            <td align="center">
+                <a href="https://aws.amazon.com/" target="_blank">
+                    <img alt="AWS" height="42px" src="/assets/icons/aws.svg" /><br />
+                    AWS
+                </a>
+            </td>
+            <!-- Item 3 -->
+            <td align="center">
+                <a href="https://www.java.com/" target="_blank">
+                    <img alt="Java" height="42px" src="/assets/icons/java.svg" /><br />
+                    Java
+                </a>
+            </td>
+            <!-- Item 4 -->
+            <td align="center">
+                <a href="https://spring.io/projects/spring-boot/" target="_blank">
+                    <img alt="Spring" height="42px" src="/assets/icons/spring.svg" /><br />
+                    Spring Boot
+                </a>
+            </td>
+            <!-- Item 1 -->
+            <td align="center">
+                <a href="https://developer.hashicorp.com/terraform" target="_blank">
+                    <img alt="Terraform" height="42px" src="/assets/icons/terraform.svg" /><br />
+                    Terraform
+                </a>
+            </td>
+            <!-- Item 2 -->
+            <td align="center">
+                <a href="https://aws.amazon.com/" target="_blank">
+                    <img alt="AWS" height="42px" src="/assets/icons/aws.svg" /><br />
+                    AWS
+                </a>
+            </td>
+            <!-- Item 3 -->
+            <td align="center">
+                <a href="https://www.java.com/" target="_blank">
+                    <img alt="Java" height="42px" src="/assets/icons/java.svg" /><br />
+                    Java
+                </a>
+            </td>
+            <!-- Item 4 -->
+            <td align="center">
+                <a href="https://spring.io/projects/spring-boot/" target="_blank">
+                    <img alt="Spring" height="42px" src="/assets/icons/spring.svg" /><br />
+                    Spring Boot
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
 </details>
 
