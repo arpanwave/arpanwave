@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=38BDF8&center=true&height=80&width=1000&lines=Hello+World!;Welcome+to+my+Github!;DevOps;Fullstack+Developer)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=38BDF8&center=true&height=80&width=1000&lines=Hello+World!;Welcome+to+my+Github!;DevOps...;Fullstack+Developer)](https://git.io/typing-svg) 
 
 
 </div>
@@ -52,14 +52,14 @@
 </div>
 </details>
 
-## Statistics
-
+<details open>
+    <summary align="center"><h2> Statistics </h2></summary>
 <div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=arpanwave&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=arpanwave&show_icons=true&include_all_commits=true&theme=github_dark)
 
 </div>
-
+</details>
 <!-- Old Stats -->
 <!--## GitHub Stats🔥
 
