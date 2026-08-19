@@ -1,9 +1,12 @@
-
-<details open>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=29&reversal=false&section=header"/>
+<!-- <details open>
     <summary align="center"><h2> About me </h2></summary>
-    <p align="center"> Full Stack Developer building scalable Spring Boot applications with automated CI/CD pipelines. Automating cloud infrastructure on AWS using Terraform. </p>
+    <p align="center">  </p>
 <br>
-</details>
+</details> -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Hello+World!;I+am+Arpan!;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+
 <details open>
     <summary align="center"><h2> Favorite languages and Tools </h2></summary>
 <div align="center">
@@ -19,7 +22,6 @@
     <a href="https://redis.io/" target="_blank"> <img alt="Redis" height="42px" src="/assets/icons/redis.svg" /></a>&nbsp;&nbsp;
     <a href="https://www.docker.com/" target="_blank"> <img alt="Docker" height="42px" src="/assets/icons/docker.svg" /></a>&nbsp;&nbsp;
     <a href="https://kubernetes.io/" target="_blank"> <img alt="Kubernetes" height="42px" src="/assets/icons/kubernetes.svg" /></a>&nbsp;&nbsp;
-
 </div>
 </details>
 
@@ -42,101 +44,6 @@
     <a href="https://ubuntu.com/" target="_blank"> <img alt="Ubuntu" height="42px" src="/assets/icons/ubuntu.svg" /></a>&nbsp;&nbsp;
     <a href="https://www.vim.org/" target="_blank"> <img alt="Vim" height="42px" src="/assets/icons/vim.svg" /></a>&nbsp;&nbsp;
     <a href="https://code.visualstudio.com/" target="_blank"> <img alt="Visual Studio Code" height="42px" src="/assets/icons/vscode.svg" /></a>&nbsp;&nbsp;
-
-</div>
-</details>
-
-<details open>
-    <summary align="center"><h2> Favorite languages and Tools </h2></summary>
-<div align="center">
-    <table>
-        <tr>
-            <!-- Item 1 -->
-            <td align="center">
-                <a href="https://developer.hashicorp.com/terraform" target="_blank">
-                    <img alt="Terraform" height="42px" src="/assets/icons/terraform.svg" /><br />
-                    Terraform
-                </a>
-            </td>
-            <!-- Item 2 -->
-            <td align="center">
-                <a href="https://aws.amazon.com/" target="_blank">
-                    <img alt="AWS" height="42px" src="/assets/icons/aws.svg" /><br />
-                    AWS
-                </a>
-            </td>
-            <!-- Item 3 -->
-            <td align="center">
-                <a href="https://www.java.com/" target="_blank">
-                    <img alt="Java" height="42px" src="/assets/icons/java.svg" /><br />
-                    Java
-                </a>
-            </td>
-            <!-- Item 4 -->
-            <td align="center">
-                <a href="https://spring.io/projects/spring-boot/" target="_blank">
-                    <img alt="Spring" height="42px" src="/assets/icons/spring.svg" /><br />
-                    Spring Boot
-                </a>
-            </td>
-            <!-- Item 1 -->
-            <td align="center">
-                <a href="https://developer.hashicorp.com/terraform" target="_blank">
-                    <img alt="Terraform" height="42px" src="/assets/icons/terraform.svg" /><br />
-                    Terraform
-                </a>
-            </td>
-            <!-- Item 2 -->
-            <td align="center">
-                <a href="https://aws.amazon.com/" target="_blank">
-                    <img alt="AWS" height="42px" src="/assets/icons/aws.svg" /><br />
-                    AWS
-                </a>
-            </td>
-            <!-- Item 3 -->
-            <td align="center">
-                <a href="https://www.java.com/" target="_blank">
-                    <img alt="Java" height="42px" src="/assets/icons/java.svg" /><br />
-                    Java
-                </a>
-            </td>
-            <!-- Item 4 -->
-            <td align="center">
-                <a href="https://spring.io/projects/spring-boot/" target="_blank">
-                    <img alt="Spring" height="42px" src="/assets/icons/spring.svg" /><br />
-                    Spring Boot
-                </a>
-            </td>
-            <!-- Item 1 -->
-            <td align="center">
-                <a href="https://developer.hashicorp.com/terraform" target="_blank">
-                    <img alt="Terraform" height="42px" src="/assets/icons/terraform.svg" /><br />
-                    Terraform
-                </a>
-            </td>
-            <!-- Item 2 -->
-            <td align="center">
-                <a href="https://aws.amazon.com/" target="_blank">
-                    <img alt="AWS" height="42px" src="/assets/icons/aws.svg" /><br />
-                    AWS
-                </a>
-            </td>
-            <!-- Item 3 -->
-            <td align="center">
-                <a href="https://www.java.com/" target="_blank">
-                    <img alt="Java" height="42px" src="/assets/icons/java.svg" /><br />
-                    Java
-                </a>
-            </td>
-            <!-- Item 4 -->
-            <td align="center">
-                <a href="https://spring.io/projects/spring-boot/" target="_blank">
-                    <img alt="Spring" height="42px" src="/assets/icons/spring.svg" /><br />
-                    Spring Boot
-                </a>
-            </td>
-        </tr>
-    </table>
 </div>
 </details>
 
@@ -154,3 +61,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=arpan-v&theme=dark&hide_border=true)
 
 -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=29&reversal=true&section=footer"/>
