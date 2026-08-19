@@ -51,14 +51,14 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img alt="Visual Studio Code" height="42px" src="/assets/icons/vscode.svg" /></a>&nbsp;&nbsp;
 </div>
 </details>
-<!-- 
+
 ## Statistics
 
 <div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=arpanwave&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=arpanwave&show_icons=true&include_all_commits=true&theme=github_dark)
 
-</div> -->
+</div>
 
 <!-- Old Stats -->
 <!--## GitHub Stats🔥
