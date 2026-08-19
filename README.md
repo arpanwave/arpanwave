@@ -1,11 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=29&reversal=false&section=header"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=29&reversal=false&section=header"/> -->
 <!-- <details open>
     <summary align="center"><h2> About me </h2></summary>
     <p align="center">  </p>
 <br>
 </details> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Hello+World!;I+am+Arpan!;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=38BDF8&width=435&lines=Hello+World!;I+am+Arpan!;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+</div>
 
 <details open>
     <summary align="center"><h2> Favorite languages and Tools </h2></summary>
@@ -46,14 +49,14 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img alt="Visual Studio Code" height="42px" src="/assets/icons/vscode.svg" /></a>&nbsp;&nbsp;
 </div>
 </details>
-
+<!-- 
 ## Statistics
 
 <div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=arpanwave&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=arpanwave&show_icons=true&include_all_commits=true&theme=github_dark)
 
-</div>
+</div> -->
 
 <!-- Old Stats -->
 <!--## GitHub Stats🔥
@@ -61,5 +64,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=arpan-v&theme=dark&hide_border=true)
 
 -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=29&reversal=true&section=footer"/>
+<!-- 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=29&reversal=true&section=footer"/> -->
