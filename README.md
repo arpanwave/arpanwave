@@ -7,7 +7,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=38BDF8&width=435&lines=Hello+World!;I+am+Arpan!;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=38BDF8&center=true&height=80&width=1000&lines=Hello+World!;Filipino;Info+Tech;Open+Source+Explorer;EXO-L)](https://git.io/typing-svg) 
+
+
 </div>
 
 <details open>
