@@ -15,20 +15,8 @@
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height="42px" src="/assets/icons/python.svg" /></a>&nbsp;&nbsp;
     <a href="https://www.java.com/" target="_blank"> <img alt="Java" height="42px" src="/assets/icons/java.svg" /></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" height="42px" src="/assets/icons/javascript.svg" /></a>&nbsp;&nbsp;
-</div>
-</details>
-
-<details open>
-    <summary align="center"><h2> Favorite Liberaries and Frameworks </h2></summary>
-<div align="center">
     <a href="https://react.dev/" target="_blank"> <img alt="React" height="42px" src="/assets/icons/reactjs.svg" /></a>&nbsp;&nbsp;
     <a href="https://spring.io/projects/spring-boot/" target="_blank"> <img alt="Spring" height="42px" src="/assets/icons/spring.svg" /></a>&nbsp;&nbsp;
-</div>
-</details>
-
-<details open>
-    <summary align="center"><h2> Cloud & DevOps </h2></summary>
-<div align="center">
     <a href="https://www.postgresql.org/" target="_blank"> <img alt="PostgreSQL" height="42px" src="/assets/icons/postgresql.svg" /></a>&nbsp;&nbsp;
     <a href="https://developer.hashicorp.com/terraform" target="_blank"> <img alt="Terraform" height="42px" src="/assets/icons/terraform.svg" /></a>&nbsp;&nbsp;
     <a href="https://aws.amazon.com/" target="_blank"> <img alt="AWS" height="42px" src="/assets/icons/aws.svg" /></a>&nbsp;&nbsp;
