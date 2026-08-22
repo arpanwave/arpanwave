@@ -10,10 +10,10 @@
 
 <div align="center">
 
-<h2>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=38BDF8&center=true&height=80&width=1000&lines=Welcome+to+my+Github!;Fullstack+Developer;DevOps)](https://git.io/typing-svg) 
-</h2>
+
 
 </div>
 
