@@ -5,8 +5,7 @@
 
 <img src="./assets/banners/top-banner.svg" alt="Arpan Verma">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=38BDF8&center=true&height=80&width=1000&lines=Hello+there!;Welcome+to+my+Github!;I+am+a+Fullstack+Developer;DevOps)](https://git.io/typing-svg) 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=38BDF8&center=true&height=80&width=1000&lines=Hello+there!;Welcome+to+my+Github!;I+am+a+Fullstack+Developer;Building+with+AWS+%26+Terraform;Exploring+AI+%26+LLMs;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 </div>
 
 <details open>
