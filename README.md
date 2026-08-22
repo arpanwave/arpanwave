@@ -1,11 +1,3 @@
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=29&reversal=false&section=header"/> -->
-<!-- <details open>
-    <summary align="center"><h2> About me </h2></summary>
-    <p align="center">  </p>
-<br>
-</details> -->
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=header&text=Arpan%20Verma&fontSize=42&fontColor=ffffff&fontAlignY=65" width="100%"/> -->
 
 <div align="center">
     
@@ -65,12 +57,6 @@
 
 </div>
 </details>
-<!-- Old Stats -->
-<!--## GitHub Stats🔥
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arpan-v&theme=dark&hide_border=true)
-
--->
-<!-- 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=29&reversal=true&section=footer"/> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3B82F6&reversal=false&fontAlignY=50&section=footer"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3B82F6&reversal=false&fontAlignY=50&section=footer"/> -->
+<img src="./assets/banners/bottom-banner.svg" alt="Arpan Verma">
