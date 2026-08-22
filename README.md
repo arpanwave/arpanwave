@@ -5,15 +5,11 @@
 <br>
 </details> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header&text=Arpan%20Verma&fontSize=42&fontColor=ffffff&fontAlignY=65" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=header&text=Arpan%20Verma&fontSize=42&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=38BDF8&center=true&height=80&width=1000&lines=Welcome+to+my+Github!;Fullstack+Developer;DevOps)](https://git.io/typing-svg) 
-
 
 </div>
 
