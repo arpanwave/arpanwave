@@ -5,6 +5,9 @@
 <br>
 </details> -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header&text=Ashish%20Vaghela&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Software%20Craftsperson&descSize=16&descAlignY=85&descColor=c8c0f0" width="100%"/>
+
+
 <div align="center">
 
 <h2>
